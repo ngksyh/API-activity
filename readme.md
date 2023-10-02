@@ -1,5 +1,7 @@
 Problem Description: Determining optimal scheduling methods for road closures.
+
 Problem Domain: Logistics, Routes, and Maps.
+
 The goal of the project is to create a method for efficiently planning neccessary road closures throughout the year for city construction projects
 while minimizing the effect of the closures on traffic. This can be viewed as a graph problem, and likely has connections to network flow and, specifically, 
 the effect of node deletion on flow.
